@@ -44,3 +44,8 @@ $ python manage.py runserver
 ```sh
 $ firefox localhost:8000/
 ```
+
+> Para desativar o ambiente virtual basta executar o seguinte comando
+```sh
+$ deactivate
+```
